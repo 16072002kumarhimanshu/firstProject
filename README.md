@@ -1,0 +1,2 @@
+# firstProject
+gite ignore
